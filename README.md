@@ -11,4 +11,4 @@ Features:
    ```sh
    git clone https://github.com/yourusername/task-tracker-cli.git
    cd task-tracker-cli
-   https://roadmap.sh/projects/task-tracker
+https://roadmap.sh/projects/task-tracker
